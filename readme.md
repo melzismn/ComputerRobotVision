@@ -1,6 +1,7 @@
 # Computer and Robot Vision: Exercises
 UniMiB - University of Milano-Bicocca
 
+![alt text](DLTtestImage.jpeg)
 
 This is the Repository for the exercises of the course Computer and Robot Vision, yields at the University of Milano-Bicocca, during the first semester of the a.y 2022-2023.
 
