@@ -16,6 +16,6 @@ This is the Repository for the exercises of the course Computer and Robot Vision
 **Date** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------
 | | |
-Mon 7 Nov | DLT | [input.ipynb](https://github.com/melzismn/ComputerRobotVision/edit/main/DLT.ipynb) | 
+Mon 7 Nov | DLT | [DLT.ipynb](https://github.com/melzismn/ComputerRobotVision/edit/main/DLT.ipynb) | 
 | | |
 
