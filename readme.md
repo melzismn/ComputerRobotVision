@@ -7,7 +7,13 @@ This is the Repository for the exercises of the course Computer and Robot Vision
 
 **When:** 
 
-      Monday 7/11/2022    15.30 - 18.30
+      Monday 14/11/2022    15.30 - 18.30
+      
+      Monday 21/11/2022    15.30 - 18.30
+      
+      Monday 28/11/2022    15.30 - 18.30
+      
+      Monday ??/??/2022    15.30 - 18.30  
 
        
 
@@ -15,6 +21,11 @@ This is the Repository for the exercises of the course Computer and Robot Vision
 **Date** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------
 | | |
-Mon 7 Nov | DLT | [DLT.ipynb](https://github.com/melzismn/ComputerRobotVision/blob/main/DLT.ipynb) | 
+Mon 14 Nov | DLT | [DLT.ipynb](https://github.com/melzismn/ComputerRobotVision/blob/main/DLT.ipynb) | 
 | | |
+Mon 21 Nov | ZHANG | |
+| | |
+Mon 28 Nov | Stereo | |
+| | |
+Mon ?? ??? | SLAM | |
 
