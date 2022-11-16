@@ -23,7 +23,7 @@ This is the Repository for the exercises of the course Computer and Robot Vision
 | | |
 Mon 14 Nov | DLT | [DLT.ipynb](https://github.com/melzismn/ComputerRobotVision/blob/main/DLT.ipynb) | 
 | | |
-Mon 21 Nov | ZHANG | |
+Mon 21 Nov | ZHANG | [ZHANG.ipynb](https://github.com/melzismn/ComputerRobotVision/blob/main/ZHANG.ipynb) |
 | | |
 Mon 28 Nov | Stereo | |
 | | |
