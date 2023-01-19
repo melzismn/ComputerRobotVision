@@ -27,5 +27,5 @@ Mon 21 Nov | ZHANG | [ZHANG.ipynb](https://github.com/melzismn/ComputerRobotVisi
 | | |
 Mon 28 Nov | Stereo | |
 | | |
-Mon ?? ??? | SLAM | |
+Mon 31 Nov | SLAM | |
 
