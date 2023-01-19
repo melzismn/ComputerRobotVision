@@ -13,7 +13,7 @@ This is the Repository for the exercises of the course Computer and Robot Vision
       
       Monday 28/11/2022    15.30 - 18.30
       
-      Monday ??/??/2022    15.30 - 18.30  
+      Tuesday 31/01/2023    15.30 - 18.30 (building U14, room T014) 
 
        
 
